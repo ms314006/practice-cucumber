@@ -1,0 +1,23 @@
+{
+  "name": "practice-cucumber",
+  "version": "1.0.0",
+  "description": "Practice cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ms314006/practice-cucumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ms314006/practice-cucumber/issues"
+  },
+  "homepage": "https://github.com/ms314006/practice-cucumber#readme",
+  "devDependencies": {
+    "cucumber": "^6.0.5"
+  }
+}
